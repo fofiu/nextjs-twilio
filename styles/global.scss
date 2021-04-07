@@ -1,0 +1,11 @@
+@layer base {
+	body {
+		font-size: 18px;
+		@apply antialiased bg-gray-900;
+		text-rendering: optimizeLegibility;
+	}
+}
+
+body {
+	line-height: 22px;
+}
